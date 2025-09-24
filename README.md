@@ -1,16 +1,16 @@
 # Ngalam.in 🌆🍜
 
-**Ngalam.in** adalah platform panduan wisata dan kuliner di Malang.  
+**Ngalam.in** adalah platform panduan wisata dan kuliner di Malang.
 Dibuat untuk memudahkan traveler dalam menemukan tempat menarik, kuliner khas, hingga melakukan pemesanan tiket online dengan praktis.
 
 ---
 
 ## ✨ Fitur Utama
-- 🗺️ Panduan destinasi wisata Malang  
-- 🍲 Rekomendasi kuliner khas Malang  
-- 🎟️ Pemesanan tiket online  
-- 🔍 Pencarian cepat berdasarkan kategori  
-- 📱 Tampilan responsif untuk mobile dan desktop  
+- 🗺️ Panduan destinasi wisata Malang
+- 🍲 Rekomendasi kuliner khas Malang
+- 🎟️ Pemesanan tiket online
+- 🔍 Pencarian cepat berdasarkan kategori
+- 📱 Tampilan responsif untuk mobile dan desktop
 
 ---
 
@@ -22,23 +22,8 @@ Dibuat untuk memudahkan traveler dalam menemukan tempat menarik, kuliner khas, h
 
 ---
 
-## 📂 Struktur Proyek
-```
-
-ngalam.in/
-│── assets/        # File CSS, JS, gambar
-│── config/        # Konfigurasi database
-│── pages/         # Halaman utama (home, wisata, kuliner, tiket, dll.)
-│── index.php      # Entry point aplikasi
-│── README.md
-│── LICENSE
-
-````
-
----
-
 ## 🏆 Penghargaan
-- **Juara 3** – *Tourism App Design Competition* 🎉
+- **Juara 3** – *EPIM WEB PROGRAMMING 2024* 🎉
 
 ---
 
