@@ -42,22 +42,11 @@ ngalam.in/
 
 ---
 
-## 🚀 Cara Menjalankan
-1. Clone repo ini  
-   ```bash
-   git clone https://github.com/Aimannawal/Ngalam.in.git
-````
-
-2. Import database ke MySQL
-3. Sesuaikan file konfigurasi di `config/`
-4. Jalankan di localhost (XAMPP/Laragon) atau deploy ke hosting
-
----
-
 ## 👨‍💻 Kontributor
 
 * **Aiman Wafi'i An Nawal**
-* **Tim Developer SMK Telkom Sidoarjo**
+* **Abi Arrasyid**
+* **Daffa Arkandinov Nugroho**
 
 ---
 
