@@ -10,7 +10,6 @@ Dibuat untuk memudahkan traveler dalam menemukan tempat menarik, kuliner khas, h
 - 🍲 Rekomendasi kuliner khas Malang
 - 🎟️ Pemesanan tiket online
 - 🔍 Pencarian cepat berdasarkan kategori
-- 📱 Tampilan responsif untuk mobile dan desktop
 
 ---
 
