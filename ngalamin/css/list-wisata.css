@@ -1,0 +1,74 @@
+body{
+    font-family: "Poppins";
+}
+
+.main{
+    justify-content: center;
+    background: url(../images/bromolandscape.jpg);
+    background-size: cover;
+    text-align: center;
+    background-position:center;
+    padding: 150px 0;
+}
+
+.main h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.main .search{
+    height: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+    width: 400px;
+}
+
+.wisata1{
+    margin: 20px 260px;
+}
+
+.list-wisata{
+    display: flex;
+}
+
+.judul-wist{
+    font-size: 20px;
+    
+}
+
+.wisata{
+    background-color: aliceblue;
+    margin: 20px;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+.content-wisata{
+    padding: 12px;
+}
+
+.wisata h1{
+    font-size: 18px;
+}
+
+.img-wisata {
+width: 100%;
+border-radius: 10px 10px 0 0;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.desc-loc{
+    font-size: 12px;
+}
+

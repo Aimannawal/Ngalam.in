@@ -1,0 +1,248 @@
+.detail-headline {
+  padding-left: 221px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.detail-headline h3 {
+  font-family: "Poppins-Medium";
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.detail-container {
+  padding-left: 221px;
+  display: flex;
+  gap: 80px;
+}
+
+.detail-card {
+  background-color: #001d6e;
+  width: 444px;
+  height: 500px;
+  border-radius: 10px;
+}
+
+.card-headline {
+  padding-left: 30px;
+  display: flex;
+  gap: 150px;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.card-headline h3 {
+  color: white;
+  font-size: 16px;
+  font-family: "Poppins";
+  font-weight: 500;
+}
+
+.card-rating {
+  display: flex;
+  align-items: center;
+}
+
+.card-review {
+  padding-left: 300px;
+  padding-bottom: 20px;
+}
+
+.card-review p {
+  color: white;
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 400;
+}
+
+.keterangan {
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.lokasi {
+  font-family: "Poppins";
+  font-size: 12px;
+  font-weight: 400;
+  color: white;
+  padding-bottom: 5px;
+}
+
+.jam {
+  font-family: "Poppins";
+  font-size: 12px;
+  font-weight: 400;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.keterangan input {
+  border-radius: 6px;
+  width: 200px;
+  font-family: "Poppins";
+  font-weight: 400;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+
+.keterangan label {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+}
+
+.method {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  padding-left: 30px;
+}
+
+.method-pay {
+  font-family: "Poppins";
+  font-weight: 400;
+  margin-left: 30px;
+  padding-right: 120px;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+}
+
+.price {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.price p {
+  color: white;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.price h3 {
+  color: white;
+  font-family: "Poppins-Medium";
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.pesan {
+  background-color: #1f6cd6;
+  outline: none;
+  border: none;
+  width: 367px;
+  height: 52px;
+  border-radius: 10px;
+  font-family: "Poppins-Medium";
+  font-size: 18px;
+  color: white;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.day {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  padding-left: 30px;
+}
+
+.select-day {
+  font-family: "Poppins";
+  font-weight: 400;
+  margin-left: 30px;
+  padding-right: 120px;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+}
+
+.deskripsi {
+  padding-left: 221px;
+  padding-top: 40px;
+}
+
+.deskripsi h3 {
+  font-family: "Poppins-Semibold";
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.deskripsi p {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 400;
+  width: 808px;
+  text-align: justify;
+}
+
+.review-section {
+  padding-top: 200px;
+  padding-left: 221px;
+  margin-bottom: 200px;
+}
+
+.review-headline {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.review-rating {
+  display: flex;
+  align-items: center;
+}
+
+.review-headline h2 {
+  font-family: "Poppins-Semibold";
+  font-size: 34px;
+  font-weight: 500;
+}
+
+.review-total h4 {
+  font-family: "Poppins-Medium";
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.review-total p {
+  font-family: "Poppins";
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.review-box {
+  margin-top: 20px;
+  padding: 50px;
+  border-radius: 10px;
+  align-items: center;
+  background-color: #d8d8d8;
+  width: 1459px;
+  height: 200px;
+}
+
+.review-profil {
+  display: flex;
+  align-items: center;
+}
+
+.nama-komen {
+  font-size: 26px;
+  font-family: "Poppins-Semibold";
+}
+
+.review-comment {
+  font-size: 20px;
+  font-family: "Poppins";
+}
+
+.review-star {
+  display: flex;
+  margin-left: 20px;
+  align-items: center;
+}

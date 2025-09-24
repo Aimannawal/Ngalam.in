@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  padding-left: 221px;
+  padding-top: 20px;
+  align-items: center;
+  justify-content: start;
+}
+
+.nav-item {
+  display: flex;
+  gap: 48px;
+  padding-left: 626px;
+  align-items: center;
+}
+
+.nav-item a {
+  font-family: "Poppins-Medium";
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+
+.profil img {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+}
+
+.button-nav {
+    background-color: #1F6CD6;
+    outline: none;
+    border: none;
+    width: 135px;
+    height: 45px;
+    border-radius: 10px;
+    font-family: "Poppins-Medium";
+    font-size: 18px;
+    color: white;
+}

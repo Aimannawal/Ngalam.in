@@ -1,0 +1,48 @@
+.ty{
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+.ty{
+text-align: center;
+}
+
+.ty h1 {
+    font-family: "Poppins";
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.ty p {
+    font-family: "Poppins";
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.komen {
+    margin-left: 27%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 90px;
+    outline: none;
+    width: 1000px;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.submit {
+    width: 135px;
+    height: 45px;
+    margin-left: 47%;
+    padding-right: 2px;
+    background-color: #1F6CD6;
+    color: white;
+    font-size: 22px;
+    font-family: "Poppins";
+    font-weight: 500;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}

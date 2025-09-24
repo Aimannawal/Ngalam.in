@@ -1,0 +1,60 @@
+.footer-section {
+  background-color: #001d6e;
+  width: 1920px;
+  height: 200px;
+}
+
+.footer-container {
+  display: flex;
+  align-items: center;
+}
+
+.left {
+  padding-left: 221px;
+  padding-top: 48px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.footer-menu {
+  color: white;
+}
+
+.footer-menu a {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+  font-family: "Poppins";
+  font-size: 16px;
+}
+
+.footer-menu p {
+  padding-top: 10px;
+  text-decoration: none;
+  color: white;
+  font-family: "Poppins";
+  font-size: 16px;
+}
+
+.right {
+  padding-top: 48px;
+  padding-left: 398px;
+}
+
+.right h4 {
+  color: white;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.sosmed-icon {
+  padding-top: 5px;
+}
+
+.sosmed-icon img {
+  gap: 10px;
+  width: 24px;
+  height: 24px;
+}

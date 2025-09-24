@@ -1,0 +1,150 @@
+@font-face {
+  font-family: "Poppins";
+  src: url(../font/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url(../font/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: "Poppins-Semibold";
+  src: url(../font/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url(../font/Poppins-Bold.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-container {
+  display: flex;
+  padding-top: 120px;
+  padding-left: 221px;
+  align-items: center;
+  gap: 150px;
+  padding-bottom: 220px;
+}
+
+.hero-text h2 {
+  font-family: "Poppins-Semibold";
+  font-size: 38px;
+  font-weight: 600;
+  width: 866px;
+  padding-bottom: 10px;
+}
+
+.hero-text p {
+  width: 571px;
+  text-align: justify;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+.hero-text button {
+  background-color: #1f6cd6;
+  outline: none;
+  border: none;
+  width: 140px;
+  height: 44px;
+  border-radius: 10px;
+  font-family: "Poppins-Medium";
+  font-size: 18px;
+  color: white;
+}
+
+.about-section {
+  display: flex;
+  padding-left: 221px;
+  align-items: center;
+  gap: 60px;
+  padding-bottom: 50px;
+}
+
+.about-text h2 {
+  font-family: "Poppins-Semibold";
+  font-size: 38px;
+  font-weight: 600;
+  padding-bottom: 5px;
+}
+
+.about-text p {
+  width: 877px;
+  font-family: "Poppins";
+  font-size: 16px;
+  text-align: justify;
+}
+
+.populer-container {
+  display: grid;
+  grid-template-rows: minmax(200px, 1fr);
+}
+
+.populer-card {
+  position: relative;
+  width: 356px;
+  height: 513px;
+}
+
+.artikel-section {
+  padding-top: 50px;
+  padding-left: 221px;
+  padding-bottom: 20px;
+}
+
+.artikel-headline {
+  display: flex;
+  align-items: center;
+  gap: 1191px;
+  padding-bottom: 40px;
+}
+
+.artikel-headline h2 {
+  font-family: "Poppins-Semibold";
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.artikel-headline a {
+  font-family: "Poppins";
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+  text-decoration: none;
+}
+
+.artikel-container {
+  display: flex;
+  width: 1347px;
+  gap: 40px;
+  padding-bottom: 20px;
+}
+
+.artikel-container img {
+  width: 25%;
+  border-radius: 10px;
+}
+
+.artikel-container a {
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+
+.artikel-container p {
+    width: 849px;
+    font-size: 18px;
+    font-family: "Poppins";
+    font-weight: 400;
+    text-align: justify;
+}
